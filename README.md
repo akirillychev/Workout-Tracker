@@ -21,3 +21,10 @@ The user should be able to:
 
   * View the combined weight of multiple exercises on the `stats` page.
 
+  links
+
+  repo
+
+  screenshot mongo was set up and made a database
+  ![screenshot](assets/capture.png)
+
